@@ -10,10 +10,10 @@ spring:
     nacos:
       server-addr: localhost:8848
       discovery: #服务注册相关配置
-        namespace: dev
+        namespace: 93aafdc2-d490-49c3-999e-53f0a6cf204f
         group: xuecheng-plus-project
       config: #配置文件相关配置
-        namespace: dev
+        namespace: 93aafdc2-d490-49c3-999e-53f0a6cf204f
         group: xuecheng-plus-project
         file-extension: yaml
         refresh-enabled: true

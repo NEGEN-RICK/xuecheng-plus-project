@@ -1,3 +1,8 @@
+server:
+  servlet:
+    context-path: /media
+  port: 63050
+
 #微服务配置
 spring:
   application:
@@ -6,10 +11,10 @@ spring:
     nacos:
       server-addr: localhost:8848
       discovery:
-        namespace: ${spring.profiles.active}
+        namespace: 93aafdc2-d490-49c3-999e-53f0a6cf204f
         group: xuecheng-plus-project
       config:
-        namespace: ${spring.profiles.active}
+        namespace: 93aafdc2-d490-49c3-999e-53f0a6cf204f
         group: xuecheng-plus-project
         file-extension: yaml
         refresh-enabled: true
@@ -26,4 +31,3 @@ spring:
             refresh: true
   profiles:
     active: dev
-

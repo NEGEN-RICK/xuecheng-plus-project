@@ -1,0 +1,6 @@
+2023-07-05 16:14:05,213 ERROR [http-nio-63050-exec-4][MediaFileServiceImpl.java:148] - 上传文件成功,bucket:video,objectName:b/d/bd9214ee5e6f12cbe934ed9d3a82d21b/chunk/0
+2023-07-05 16:14:05,379 ERROR [http-nio-63050-exec-5][MediaFileServiceImpl.java:148] - 上传文件成功,bucket:video,objectName:b/d/bd9214ee5e6f12cbe934ed9d3a82d21b/chunk/1
+2023-07-05 16:14:05,460 ERROR [http-nio-63050-exec-8][MediaFileServiceImpl.java:148] - 上传文件成功,bucket:video,objectName:b/d/bd9214ee5e6f12cbe934ed9d3a82d21b/chunk/2
+2023-07-05 16:18:14,623 ERROR [http-nio-63050-exec-4][MediaFileServiceImpl.java:148] - 上传文件成功,bucket:video,objectName:b/d/bd9214ee5e6f12cbe934ed9d3a82d21b/chunk/0
+2023-07-05 16:18:14,771 ERROR [http-nio-63050-exec-5][MediaFileServiceImpl.java:148] - 上传文件成功,bucket:video,objectName:b/d/bd9214ee5e6f12cbe934ed9d3a82d21b/chunk/1
+2023-07-05 16:18:14,888 ERROR [http-nio-63050-exec-8][MediaFileServiceImpl.java:148] - 上传文件成功,bucket:video,objectName:b/d/bd9214ee5e6f12cbe934ed9d3a82d21b/chunk/2
